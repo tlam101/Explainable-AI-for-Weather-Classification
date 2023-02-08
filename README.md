@@ -5,4 +5,6 @@
 
 ![alt text](https://github.com/tlam101/Explainable-AI-for-Weather-Classification/blob/main/example3.PNG)
 
+![alt text](https://github.com/tlam101/Explainable-AI-for-Weather-Classification/blob/main/example4.PNG)
+
 ![alt text](https://github.com/tlam101/Explainable-AI-for-Weather-Classification/blob/main/abnormal1.PNG)
