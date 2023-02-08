@@ -1,2 +1,8 @@
 # Explainable-AI-for-Weather-Classification
-![alt text](https://github.com/tlam89/ArganicMolecule2/blob/main/ARMol.PNG?raw=true)
+![alt text](https://github.com/tlam101/Explainable-AI-for-Weather-Classification/blob/main/example.PNG)
+
+![alt text](https://github.com/tlam101/Explainable-AI-for-Weather-Classification/blob/main/example2.PNG)
+
+![alt text](https://github.com/tlam101/Explainable-AI-for-Weather-Classification/blob/main/example3.PNG)
+
+![alt text](https://github.com/tlam101/Explainable-AI-for-Weather-Classification/blob/main/example4.PNG)
